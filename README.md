@@ -1,1 +1,1 @@
-# -McKinsey-Analytics-Online-Hackathon
+# McKinsey-Analytics-Online-Hackathon
